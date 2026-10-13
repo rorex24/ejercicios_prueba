@@ -5,6 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>ejercicios_prueba.clase05_ejercicio17cs</StartupObject>
   </PropertyGroup>
 
 </Project>
